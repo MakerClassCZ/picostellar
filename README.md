@@ -67,6 +67,7 @@ The buttons are picogame's. The PicoPad has them on board, the Fruit Jam
 takes a [USB gamepad or keyboard](https://picogame.makerclass.cz/helpers/input/),
 and a board of your own gets its map in `settings.toml` as described under
 [Build your own board](https://picogame.makerclass.cz/custom-board/).
+You might need the appropriate input libraries from [picogame-libs](https://github.com/MakerClassCZ/picogame-libs).
 
 Four modes. B always goes back, A always goes in, Y walks LOOK or SELECT ->
 TIME -> MENU -> back. The bottom line shows what each button does.
